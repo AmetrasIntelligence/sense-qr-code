@@ -13,7 +13,7 @@ Simple Example:
 
 ## Installation
 
-1. Download the [latest version](https://github.com/stefanwalther/sense-qr-code/raw/master/build/QRCode_latest.zip)
+1. Download the latest version "/build/sense-qr-code_latest.zip" from this repository
 2. Qlik Sense Desktop
 	* To install, copy all files in the .zip file to folder "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\sense-qr-code"
 3. Qlik Sense Server
